@@ -1,0 +1,22 @@
+html,body{
+    margin: 0px;
+    width:  100vw;
+    height: 100vh;
+    font-family: arial;
+    overflow: hidden;
+}
+.botImage{
+    margin-top: 40px;
+    width: 35vw;
+}
+.botInput{
+    margin-top: 10px;
+    width: 55vw;
+    padding: 20px;
+    font-size: 25px;
+}
+input,span,img{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
